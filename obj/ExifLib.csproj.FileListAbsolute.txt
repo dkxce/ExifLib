@@ -1,0 +1,7 @@
+C:\PROJECTS\CSharp_My\ExifLib\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJECTS\CSharp_My\ExifLib\obj\Debug\ExifLibrary.BinaryMapViewer.resources
+C:\PROJECTS\CSharp_My\ExifLib\obj\Debug\ExifLib.csproj.GenerateResource.Cache
+C:\PROJECTS\CSharp_My\ExifLib\bin\Debug\ExifLib.dll
+C:\PROJECTS\CSharp_My\ExifLib\bin\Debug\ExifLib.pdb
+C:\PROJECTS\CSharp_My\ExifLib\obj\Debug\ExifLib.dll
+C:\PROJECTS\CSharp_My\ExifLib\obj\Debug\ExifLib.pdb
